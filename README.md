@@ -1,4 +1,4 @@
-# ebac-module-19-exe
+# Modulo-18-ebac
 
 Reposiório destinado ao exercício do módulo 18 do *curso* **Analista de Dados** da **EBAC**. 
 O objetivo deste repositório é práticar o uso do Git e também do Github no versionamento de cógio. 
